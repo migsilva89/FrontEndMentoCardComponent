@@ -25,7 +25,7 @@ Easy project that I can say it was a challenge cause I am very used to Tailwind 
 Tips for improve will be much appreciated. 
 
 
-Preview: https://cardcomponent-smoky.vercel.app/
+Preview: https://front-end-mento-card-component.vercel.app/
 <br>
 <br>
 Thank you all.
